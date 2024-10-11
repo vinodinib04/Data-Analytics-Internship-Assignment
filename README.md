@@ -1,14 +1,13 @@
 # Data-Analytics-Internship-Assignment---AnimeMangaToon
-# Internship Assignment - Data Analytics Candidate
 
 ## Overview
 This repository contains the completed assignment for the Data Analytics internship at AnimeMangaToon. The assignment focuses on analyzing webtoon content performance and user engagement metrics to identify trends and propose optimization strategies. The analysis is organized into three distinct reports, each addressing a specific task.
 
 ## Table of Contents
-- [Task 1: Article Analysis - "Why is the Tower of God Show So Popular?"](##task-1-article-analysis---why-is-the-tower-of-god-show-so-popular)
-- [Task 2: A/B Testing Strategy - "Refund High School Chapter 22-30: The New Arc of Mook"](##task-2-ab-testing-strategy---refund-high-school-chapter-22-30-the-new-arc-of-mook)
-- [Task 3: User Segmentation Case Study - "11 Best Solo Leveling Arcs in the Manhwa to Read Now"](##task-3-user-segmentation-case-study---11-best-solo-leveling-arcs-in-the-manhwa-to-read-now)
-- [Conclusion](#conclusion)
+- Task 1: Article Analysis - "Why is the Tower of God Show So Popular?"
+- Task 2: A/B Testing Strategy - "Refund High School Chapter 22-30: The New Arc of Mook"
+- Task 3: User Segmentation Case Study - "11 Best Solo Leveling Arcs in the Manhwa to Read Now”
+- Conclusion
 
 ## Reports
 Each report is provided in PDF format, focusing on different aspects of user engagement and content performance. You can find them in this repository:
