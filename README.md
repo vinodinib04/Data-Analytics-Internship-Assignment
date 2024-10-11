@@ -1,4 +1,4 @@
-# Data-Analytics-Internship-Assignment---AnimeMangaToon
+# Data-Analytics-Internship-Assignment
 
 ## Overview
 This repository contains the completed assignment for the Data Analytics internship at AnimeMangaToon. The assignment focuses on analyzing webtoon content performance and user engagement metrics to identify trends and propose optimization strategies. The analysis is organized into three distinct reports, each addressing a specific task.
